@@ -1,5 +1,5 @@
-## Interface: 50001
-## Version: 5.0.1
+## Interface: 50200
+## Version: 5.2.1
 ## Title: eDisturbed
 ## Notes: Only shows the first DND and AFK message and hides the ones following.
 ## Author: Ession

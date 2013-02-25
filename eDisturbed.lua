@@ -5,7 +5,7 @@
 --    Description:  Only shows the first DND and AFK message 
 --                  and hides the ones following.
 -- 
---        Version:  5.0.1
+--        Version:  5.2.1
 --         Author:  Mathias Jost (mail@mathiasjost.com)
 -- 
 -- =============================================================================
